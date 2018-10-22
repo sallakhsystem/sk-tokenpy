@@ -36,7 +36,7 @@ python3 token1.py ( contoh ) بطور مثال
 و غیره . 
 
 خب بعد از نصب تمام پکیج های لازم باید این را تایپ کنید 
-cd tokenpy
+cd sk-tokenpy
 python3 توکن مرد نیاز تون.py مثال 
 
 python3 token20.py
